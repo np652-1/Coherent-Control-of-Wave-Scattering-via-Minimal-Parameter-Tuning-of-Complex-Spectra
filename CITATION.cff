@@ -2,7 +2,15 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
   - family-names: "Alhulaymi"
-    given-names: "Ali, et al."
+    given-names: "A"
+- family-names: "Pyvovar"
+    given-names: "N"
+- family-names: "Stone"
+    given-names: "AD"
+- family-names: "Miller"
+    given-names: "OD"
+- family-names: "Phillip"
+    given-names: "H"
 title: "Coherent Control of Wave Scattering via Minimal-Parameter Tuning of Complex Spectra"
 version: 0.0.0
 doi: 10.5281/zenodo.21776040
