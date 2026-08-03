@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Pyvovar,Alhulaymi,Stone,Miller"
+    given-names: "Nazar,Ali,Douglas,Owen"
+title: "Coherent Control of Wave Scattering via Minimal-Parameter Tuning of Complex Spectra"
+version: 0.0.0
+doi: 10.5281/zenodo.21776040
+date-released: 2026-08-03
+url: "https://github.com/np652-1/Coherent-Control-of-Wave-Scattering-via-Minimal-Parameter-Tuning-of-Complex-Spectra.git"
