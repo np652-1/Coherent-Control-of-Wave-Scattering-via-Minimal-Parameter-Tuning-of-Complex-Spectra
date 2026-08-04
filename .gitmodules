@@ -1,0 +1,3 @@
+[submodule "chunkie"]
+	path = chunkie
+	url = https://github.com/fastalgorithms/chunkie.git
