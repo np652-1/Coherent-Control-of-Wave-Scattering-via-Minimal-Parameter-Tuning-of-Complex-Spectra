@@ -95,7 +95,7 @@ cd dcavity_ccon_optimization; optimize_ccon_example   % code 7
 ```
 
 ### COMSOL codes (2, 3, 5, 6)
-Need COMSOL with **LiveLink for MATLAB**. Start a server in a terminal, then
+Need COMSOL with the **Wave Optics Module** (the `ewfd` "Electromagnetic Waves, Frequency Domain" interface) and **LiveLink for MATLAB**. Start a server in a terminal, then
 run the script:
 
 ```bash
