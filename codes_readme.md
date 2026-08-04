@@ -80,7 +80,7 @@ git clone --recurse-submodules https://github.com/np652-1/Coherent-Control-of-Wa
 # or, in an already-cloned repo:
 git submodule update --init --recursive
 ```
-The scripts then auto-find chunkie at `../chunkie`. **No compilation is needed** —
+The scripts then auto-find the bundled `chunkie/` submodule. **No compilation is needed** —
 these examples use *dense* chunkie, which is pure MATLAB (chunkie + FLAM). Only
 chunkie's `fmm2d` sub-submodule would need compiling, and these dense examples do
 not use it, so its absence is fine (chunkie's `startup` prints a harmless
